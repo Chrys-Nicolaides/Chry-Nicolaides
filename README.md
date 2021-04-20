@@ -2,6 +2,8 @@
 
 I'm a designer with a passion for solving problems and turning complex problems into intuitive solutions.
 
+---
+
 
 * 👷‍♀️ I have a background in Architecture, with a Master of Architecture degree and 6 years experience working in the field.
 * ✨ Today, I am eager to transition into web development and focus on not only web design but also building impactful and meaningful digital experiences for users.
