@@ -3,12 +3,11 @@
 I'm a UX designer and problem solver with an aptitude for detail-orientated work.
 
 
-* 👷‍♀️ I have a background in Architecture, with a Master's degree and 6 years experience working in the field.
-* ✨ I am passionate about UX and UI design and building impactful and meaningful digital experiences for users. 
-* 🌱 I am working on expanding my knowledge and improving my proficiency in Javascript & React.
+* 👷‍♀️ I have a background in Architecture
+* ✨ I am passionate about UX and UI design and building intuitive, frictionless digital experiences for users 
+* 🌱 I am working on expanding my knowledge and improving my proficiency in Javascript & React
 * 🤟🏻 I'm a huge fan of Tailwind CSS! 
-* 🤓 I'm eager to dive into Storybook next and use it in my React projects to build component libraries.
-* 🐱‍🏍 I want to learn more about optimising CSS and SVG animations for performance.
-* 🐶 I'm a dog person.
+* 😎 Figma is the future and my tool of choice
+* 🐶 I'm a dog person
 
-⭐ I am currently working as a UX Designer in the Ecommerce space
+⭐ I am currently working as a UX Designer in the EdTech space
